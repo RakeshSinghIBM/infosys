@@ -6,16 +6,6 @@ public class FishEater {
 	
 	public static final int injectedSize = 10;
 	
-	/**
-	 * Comment for <code>OPT_ADD</code>
-	 */
-	public static final String OPT_ADD = "ADD";
-	
-	/**
-	 * Comment for <code>OPT_REMOVE</code>
-	 */
-	public static final String OPT_REMOVE = "REMOVE";
-	
 	public static int counter = 0;
 	
 	
